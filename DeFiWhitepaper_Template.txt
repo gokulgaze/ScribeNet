@@ -9,5 +9,14 @@
 ## Customer Journey Mapping
 
 
+## Value Proposition Design
+- Yield Allocation
+- Yield Aggregation
+- Yield Vault
+
+
+## Baseline and Benchmarks
+
+
 ## 
 
